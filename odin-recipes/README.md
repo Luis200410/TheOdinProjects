@@ -1,0 +1,1 @@
+This is the firs project of the course in full stack for "The Odin Project", this is projects is about recipes, and working with HTML
